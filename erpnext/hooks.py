@@ -1,16 +1,16 @@
 from __future__ import unicode_literals
 from frappe import _
 
-app_name = "erpnext"
-app_title = "ERPNext"
+app_name = "QBH Solution"
+app_title = "QBH Solution"
 app_publisher = "Frappe Technologies Pvt. Ltd."
-app_description = """ERP made simple"""
+app_description = """QBH Solution made simple"""
 app_icon = "fa fa-th"
 app_color = "#e74c3c"
-app_email = "info@erpnext.com"
+app_email = "info@qbhsolution.com"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/frappe/erpnext"
-app_logo_url = '/assets/erpnext/images/erp-icon.svg'
+source_link = "https://github.com/mukeem789/erp.git"
+app_logo_url = '/assets/erpnext/images/erp-icon.png'
 
 
 develop_version = '12.x.x-develop'
@@ -80,7 +80,7 @@ website_generators = ["Item Group", "Item", "BOM", "Sales Partner",
 
 website_context = {
 	"favicon": 	"/assets/erpnext/images/favicon.png",
-	"splash_image": "/assets/erpnext/images/erp-icon.svg"
+	"splash_image": "/assets/erpnext/images/erp-icon.png"
 }
 
 website_route_rules = [
@@ -332,8 +332,8 @@ email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
 default_mail_footer = """
 	<span>
 		Sent via
-		<a class="text-muted" href="https://erpnext.com?source=via_email_footer" target="_blank">
-			ERPNext
+		<a class="text-muted" href="https://qbusolutioin.com?source=via_email_footer" target="_blank">
+			QBH Solution
 		</a>
 	</span>
 """
