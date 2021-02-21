@@ -1,7 +1,7 @@
 from __future__ import unicode_literals
 from frappe import _
 
-app_name = "QBH Solution"
+app_name = "QBH Solution"QBH
 app_title = "QBH Solution"
 app_publisher = "Frappe Technologies Pvt. Ltd."
 app_description = """QBH Solution made simple"""
@@ -9,7 +9,8 @@ app_icon = "fa fa-th"
 app_color = "#e74c3c"
 app_email = "info@qbhsolution.com"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/mukeem789/erp.git"
+#source_link = "https://github.com/mukeem789/erp.git"
+source_link = "https://github.com/frappe/erpnext"
 app_logo_url = '/assets/erpnext/images/erp-icon.png'
 
 
@@ -332,7 +333,7 @@ email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
 default_mail_footer = """
 	<span>
 		Sent via
-		<a class="text-muted" href="https://qbusolutioin.com?source=via_email_footer" target="_blank">
+		<a class="text-muted" href="https://qbhsolution.com?source=via_email_footer" target="_blank">
 			QBH Solution
 		</a>
 	</span>
